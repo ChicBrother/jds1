@@ -7,14 +7,14 @@
     },
     {
         "linkId": "DA4SkG7NXupA9sksI00L0g",
-        "redEnvelopeId": "c112facd7427445fb2936b5b8259514765371622737913973",
-        "inviter": "P0VYMzdCS1-rTcEi-nlJ9A",
-        "helpType": "1"
-    },
-    {
-        "linkId": "DA4SkG7NXupA9sksI00L0g",
         "redEnvelopeId": "37c0ae5205b94fac9d8e0e18c6600c5916681622771656550",
         "inviter": "KQ01izlz9eAR-iQQXt1oow",
+        "helpType": "1"
+    },    
+    {
+        "linkId": "DA4SkG7NXupA9sksI00L0g",
+        "redEnvelopeId": "c112facd7427445fb2936b5b8259514765371622737913973",
+        "inviter": "P0VYMzdCS1-rTcEi-nlJ9A",
         "helpType": "1"
     }
 ]
